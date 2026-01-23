@@ -4,10 +4,10 @@ Web App Developer *in the making*.
 I enjoy learning new things and occasionally discovering creative ways to make my computer crash.
 I'm currently completing my studies, which means I know a bit of everything and a lot about learning fast.
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
-**Backend** (my comfort zone):  Node.js · Express · PHP · Python  
-**Frontend** (tough love):  HTML · CSS · JavaScript · TypeScript · React  
+**Backend** (my comfort zone):  Node.js · Express · PHP · Python · Java 
+**Frontend** (tough love):  HTML/CSS · JavaScript · TypeScript · React  
 **Databases** (still asking questions):  SQL · MongoDB  
 
 ### 🚀 Projects I'm Proud Of
