@@ -6,7 +6,7 @@ I'm currently completing my studies, which means I know a bit of everything and 
 
 ## 🧠 Tech Stack
 
-**Backend** (my comfort zone):  Node.js · Express · PHP · Python · Java 
+**Backend** (my comfort zone):  Node.js · Express · PHP & Symfony · Python & Django · Java 
 
 **Frontend** (tough love):  HTML/CSS · JavaScript · TypeScript · React  
 
